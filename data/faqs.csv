@@ -1,0 +1,91 @@
+id,category,question,answer
+1,University Overview,What is the full name of the university?,"The full name is Dr. Harisingh Gour Vishwavidyalaya, Sagar, Madhya Pradesh."
+2,University Overview,What was the university formerly known as?,The university was formerly known as the University of Saugor.
+3,University Overview,When was Dr. Harisingh Gour Vishwavidyalaya established?,The university was established on 18 July 1946.
+4,University Overview,Who founded Dr. Harisingh Gour Vishwavidyalaya?,"The university was founded by Dr. Sir Harisingh Gour, an educationist, jurist, philanthropist and social reformer."
+5,University Overview,Where is Dr. Harisingh Gour Vishwavidyalaya located?,"The university is located in Sagar, Madhya Pradesh, India."
+6,University Overview,Is Dr. Harisingh Gour Vishwavidyalaya a Central University?,Yes. The university was granted Central University status on 15 January 2009.
+7,University Overview,When did the university become a Central University?,Dr. Harisingh Gour Vishwavidyalaya became a Central University on 15 January 2009.
+8,University Overview,What is the university PIN code?,"The university campus address uses PIN code 470003, Sagar, Madhya Pradesh."
+9,University Overview,What is the university campus address?,"The university is located on University Road, Sagar, Madhya Pradesh 470003."
+10,University Overview,What is the official website of the university?,The official university website is https://www.dhsgsu.edu.in/.
+11,University Overview,Why is the university named Dr. Harisingh Gour Vishwavidyalaya?,"The university was renamed Dr. Harisingh Gour Vishwavidyalaya in 1983 in honour of its founder, Dr. Sir Harisingh Gour."
+12,University Overview,What academic areas does the university cover?,"The university offers multidisciplinary education across areas including science, humanities, social sciences, commerce, law, management, computer science, information technology, pharmaceutical sciences and other fields."
+13,Admission,How can I apply for admission to the university?,Admission procedures vary by programme and academic session. Applicants should check the latest admission notices and brochures on the official university website and the relevant admission portal.
+14,Admission,Where can I find the latest admission notification?,"The latest admission notification, brochure, counselling schedule and related instructions should be checked on the official Dr. Harisingh Gour Vishwavidyalaya website."
+15,Admission,Does the university use CUET for admission?,"For many programmes, admission processes use CUET scores according to the programme and admission-year rules. Always check the latest admission brochure for the programme you want."
+16,Admission,Is CUET required for every programme?,Not necessarily. The admission process can differ by programme. The university has also published rules for certain non-CUET admission modes in previous admission cycles. Check the latest programme-specific notice.
+17,Admission,What is the Samarth Portal used for?,The university uses the Samarth Portal for several student and admission-related processes. Applicants should follow the instructions in the current admission brochure.
+18,Admission,Where can I register for university admission?,Use the admission registration link specified in the latest official admission notification or brochure published by the university.
+19,Admission,What documents are generally required during admission counselling?,"Documents can include qualifying examination marksheets, transfer or migration documents, category certificates where applicable, photographs and other programme-specific documents. The latest counselling notice should be followed."
+20,Admission,Can I apply if my qualifying examination result is awaited?,"Some admission processes allow provisional participation when qualifying results are awaited, subject to the rules and deadlines in the current admission brochure."
+21,Admission,Are reservation rules applicable at the university?,Yes. Reservation is implemented according to applicable Government of India rules and the university's current admission notifications.
+22,Admission,Are there admission benefits for NCC candidates?,Certain admission processes provide weightage or benefits for eligible NCC certificates. The exact benefit depends on the programme and current admission rules.
+23,Admission,Are there admission benefits for NSS candidates?,Certain admission processes provide weightage or benefits for eligible NSS participation. The exact benefit depends on the programme and current admission rules.
+24,Admission,Does the university provide reservation for PwD candidates?,Yes. PwD or benchmark-disability provisions are available according to applicable rules. Applicants should check the current admission brochure for eligibility and documentation requirements.
+25,Admission,Where can I check the admission fee structure?,The fee structure is programme-specific and can change by academic session. Check the latest official admission brochure or fee notice before making payment.
+26,Academics,What academic system does the university follow?,The university follows a semester-based academic system and has implemented CBCS and NEP-2020 provisions according to its academic regulations and programme structure.
+27,Academics,What is CBCS?,CBCS stands for Choice Based Credit System. It allows students to earn credits through a structured selection of courses according to programme rules.
+28,Academics,Does the university follow NEP 2020?,"Yes. The university has implemented NEP-2020 provisions in its academic system, with details depending on the programme and academic session."
+29,Academics,How are students evaluated in semester programmes?,The evaluation structure depends on the programme and current academic regulations. Published programme documents may include internal assessment and end-semester examination components.
+30,Academics,Does the university offer undergraduate programmes?,Yes. The university offers undergraduate programmes across multiple academic disciplines.
+31,Academics,Does the university offer postgraduate programmes?,Yes. The university offers postgraduate programmes across multiple disciplines.
+32,Academics,Does the university offer PhD programmes?,Yes. The university offers doctoral research programmes in eligible disciplines subject to current admission notifications and regulations.
+33,Academics,Which subjects are available through the university's ILMS?,"The university's ILMS lists subjects across areas such as Anthropology, Biochemistry, Biotechnology, Botany, Chemistry, Computer Science, Criminology, Economics, Education, English, Environmental Sciences, Forensic Science, Geography, Geology, Hindi, Information Technology, Law, Management, Mathematics, Physics, Psychology, Statistics, Sociology and others."
+34,Academics,Does the university have a Computer Science department?,Yes. Computer Science is one of the academic areas listed by the university.
+35,Academics,Does the university offer Information Technology courses?,Yes. Information Technology is listed among the university's academic areas and ILMS course categories.
+36,Academics,Does the university offer Artificial Intelligence or Big Data related study?,"The university has computer science, information technology, statistics and other related academic areas. For a specific AI or Big Data programme, check the latest programme list and admission brochure."
+37,Academics,Does the university offer Forensic Science?,Yes. Forensic Science is one of the academic areas represented in the university's course listings.
+38,Academics,Does the university offer Pharmaceutical Sciences?,Yes. Pharmaceutical Science is listed among the university's academic areas.
+39,Academics,Does the university offer Law programmes?,Yes. Law is one of the academic areas listed by the university.
+40,Academics,Does the university offer Management programmes?,Yes. Management is included among the university's academic areas.
+41,Campus Facilities,How large is the university campus?,Official university admission material describes the campus as covering about 1300 acres.
+42,Campus Facilities,Does the university have Wi-Fi?,Yes. University admission material states that the campus is Wi-Fi enabled.
+43,Campus Facilities,Does the university have smart classrooms?,Yes. The university has smart classrooms with modern facilities.
+44,Campus Facilities,Does the university have science laboratories?,Yes. The university has laboratories equipped for science education and research.
+45,Campus Facilities,Is there a bank on the university campus?,Yes. University admission material states that there is a State Bank of India branch with ATM facilities on campus.
+46,Campus Facilities,Is there a post office on the university campus?,Yes. A post office is available on the campus near the girls' hostel.
+47,Campus Facilities,Does the university have a Central Library?,Yes. The university has a Central Library with access to academic resources.
+48,Campus Facilities,Can students access library resources remotely?,Yes. Current university admission material states that the Central Library has a remote access facility.
+49,Campus Facilities,Does the university provide online learning resources?,Yes. The university has an ILMS and also provides access to electronic resources through its library services.
+50,Campus Facilities,Can students access e-resources from outside campus?,The university provides an off-campus e-resources access service for eligible faculty members through its library system.
+51,Campus Facilities,What online learning platform is associated with the university?,The university has an ILMS based on the INFLIBNET Learning Management System.
+52,Hostel,Does Dr. Harisingh Gour Vishwavidyalaya provide hostel facilities?,Yes. The university provides hostel facilities for students on campus.
+53,Hostel,How many boys hostels are listed in the current admission brochure?,The 2025-26 admission brochure states that there are four boys' hostels on the university campus.
+54,Hostel,How many girls hostels are listed in the current admission brochure?,The 2025-26 admission brochure states that there are four girls' hostels on the university campus.
+55,Hostel,How can I apply for a hostel?,Hostel admission is handled according to university hostel rules and availability. Students should contact the concerned hostel wardens and follow the latest hostel notice.
+56,Hostel,Is hostel accommodation guaranteed for every student?,Hostel accommodation is subject to availability and university hostel rules. Students should check the latest hostel admission notice for current conditions.
+57,Student Services,Does the university have a placement cell?,Yes. The university has a Placement Cell and related student career activities.
+58,Student Services,Does the university have a student grievance cell?,Yes. The university provides a Student Grievance Redressal mechanism and publishes information about its grievance system.
+59,Student Services,Does the university provide health facilities?,Yes. Health facilities are listed among the university's student facilities.
+60,Student Services,Does the university have sports facilities?,Yes. Sports facilities are available as part of student life and extracurricular activities.
+61,Student Services,Does the university have NCC?,Yes. The university has NCC units. Official university material identifies units including 3 MP Signal Company NCC and 7 MP Girls Battalion NCC.
+62,Student Services,Does the university have NSS?,Yes. National Service Scheme activities are available at the university.
+63,Student Services,Does the university provide facilities for students with disabilities?,"Yes. Facilities include ramps, accessible website features, learning resources and examination support for eligible students."
+64,Student Services,What accessibility facilities are available for students with disabilities?,"Published university material lists ramps, Sugamya Pustakalaya membership, accessible website features, a learning resource centre, assistive devices, high-speed internet and examination support."
+65,Student Services,Does the university have a Day Care Center?,Yes. The university's public self-disclosure information lists a Day Care Center among its centres and facilities.
+66,Student Services,Does the university have a Technology Enabling Centre?,Yes. The university's public self-disclosure information lists a Technology Enabling Centre.
+67,Examination,Where can I find examination notifications?,Students should check the official university website and the examination-related notices published there for current schedules and instructions.
+68,Examination,Where can I find semester examination information?,"Semester examination schedules, notices and related instructions should be checked through the university's official examination and notice channels."
+69,Examination,What should I do if I have a question about my examination?,Check the latest examination notice first and then contact the relevant department or university examination office using the official contact details.
+70,Research,Does the university support PhD research?,Yes. The university conducts doctoral programmes and research activities across multiple academic disciplines.
+71,Research,Does the university have research laboratories?,Yes. University materials describe sophisticated laboratories and research infrastructure in science and other disciplines.
+72,Research,Does the university provide access to research databases?,"The university library provides access to electronic resources and databases, including resources listed through its e-resources service."
+73,Museum,Does Dr. Harisingh Gour Vishwavidyalaya have a museum?,Yes. Gour Sangrahalaya is a museum associated with Dr. Harisingh Gour Vishwavidyalaya and focuses on the life and legacy of Dr. Harisingh Gour.
+74,Museum,Where is Gour Sangrahalaya located?,Gour Sangrahalaya is located at the Valley Campus of Dr. Harisingh Gour Vishwavidyalaya in Sagar.
+75,Museum,What can visitors learn about at Gour Sangrahalaya?,"The museum presents information, artifacts and exhibits related to the life, achievements and legacy of Dr. Harisingh Gour."
+76,Museum,What are the listed visiting hours of Gour Sangrahalaya?,"The museum website lists visiting hours as Monday to Saturday, 10:00 AM to 6:00 PM, and says it is closed on Sundays and national holidays. Visitors should verify current timings before visiting."
+77,Contact,What is the university's general location?,"Dr. Harisingh Gour Vishwavidyalaya is located on University Road, Sagar, Madhya Pradesh 470003, India."
+78,Contact,What is the university registrar office phone number?,An official university document lists the Registrar office telephone number as 07582-265228. Verify the current contact details on the official website before calling.
+79,Contact,What is the Registrar office email address?,An official university document lists registrar@dhsgsu.edu.in for the Registrar's office. Verify the current contact details on the official website before sending important documents.
+80,Contact,What is the contact number shown for the university ILMS?,The university ILMS contact page lists 9425424909 and the email ashrivastava@dhsgsu.edu.in. This is an ILMS contact and should not be treated as the general university helpline.
+81,University History,Who was Dr. Sir Harisingh Gour?,"Dr. Sir Harisingh Gour was a lawyer, jurist, educationist, philanthropist and social reformer who founded the university in Sagar in 1946."
+82,University History,When did Dr. Harisingh Gour die?,Dr. Sir Harisingh Gour died on 25 December 1949.
+83,University History,What other universities did Dr. Harisingh Gour serve as Vice-Chancellor?,University materials state that Dr. Harisingh Gour served as the first Vice-Chancellor of the University of Delhi and also served as Vice-Chancellor of Nagpur University.
+84,University History,What was the original name of the university?,The university was originally established as the University of Saugor in 1946.
+85,University History,When was the university renamed Dr. Harisingh Gour Vishwavidyalaya?,The university was renamed Dr. Harisingh Gour Vishwavidyalaya in 1983.
+86,University History,What is the historical significance of the university in Madhya Pradesh?,The university was established in 1946 and is described in university materials as the oldest university in Madhya Pradesh.
+87,Campus Life,Does the university organize cultural activities?,"Yes. Cultural and extracurricular activities are part of university student life, including music, dance, theatre, literary and fine arts activities."
+88,Campus Life,Does the university participate in inter-university youth festivals?,"Yes. The university has hosted and participated in inter-university cultural events, including the AIU Central Zone Youth Festival."
+89,Campus Life,Are there playgrounds and sports facilities on campus?,"University materials describe sports infrastructure including sports facilities, playgrounds and related student activity spaces."
+90,General Information,Where can I find the latest university notices?,"The latest notices should be checked on the official Dr. Harisingh Gour Vishwavidyalaya website because admission, examination, hostel and administrative information can change."
